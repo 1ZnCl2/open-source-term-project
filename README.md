@@ -1,4 +1,4 @@
-# open-source-term-project
+# Open-Source-Term-Project
 project for open source software lecture.
 
 ## overview
